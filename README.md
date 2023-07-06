@@ -1,0 +1,1 @@
+A repository created for deliverables in the The Odin Project: Full Stack JavaScript course.
